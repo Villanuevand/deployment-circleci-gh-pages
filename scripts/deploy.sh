@@ -8,7 +8,7 @@ siteSource="$1"
 
 if [ ! -d "$siteSource" ]
 then
-    echo "Usage: $0 build"
+    echo "Usage: $0 app"
     exit 1
 fi
 
