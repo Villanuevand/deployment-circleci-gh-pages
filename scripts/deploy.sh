@@ -1,10 +1,5 @@
-#!/bin/sh
-# ideas used from https://gist.github.com/motemen/8595451
-
-# abort the script if there is a non-zero error
 set -e
 
-# show where we are on the machine
 pwd
 
 remote=$(git config remote.origin.url)
