@@ -34,3 +34,7 @@ node_modules
 
 #Webstorm
 .idea
+
+*.log.*
+*.log
+*.tgz
