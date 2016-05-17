@@ -31,9 +31,11 @@ The script also seems to require you to init the git user and email. To hide thi
     * GH_EMAIL (GitHub Email).
 
 
+_Reference Image - Enviroment Variables Configuration:_
 
-_Reference Image:_
-![Enviroment Variable - Villanuevand](http://drive.google.com/uc?export=view&id=0ByoQ8u8IrvxGZ0hXRkxFeFlKRDQU)
+![Enviroment Variable - Villanuevand](http://drive.google.com/uc?export=view&id=0ByoQ8u8IrvxGZ0hXRkxFeFlKRDQ)
+
+
 #### License
 [MIT License](https://raw.githubusercontent.com/Villanuevand/deployment-circleci-gh-pages/master/LICENSE).
 
