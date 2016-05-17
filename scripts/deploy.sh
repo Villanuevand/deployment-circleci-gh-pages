@@ -54,4 +54,3 @@ cd ..
 rm -rf gh-pages-branch
 
 echo "Finished Deployment!"
-Status 
