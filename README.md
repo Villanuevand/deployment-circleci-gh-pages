@@ -1,8 +1,8 @@
 # Circle CI and Github Pages.
 Playing with [CircleCi](https://circleci.com) to deploy automatically projects to [gh-pages](https://pages.github.com/).
 
-You can see the results [here](http://andresvillanueva.com.ve/deployment-circleci-gh-pages/) and files at [develop](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/develop) or [master](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/master) branchs .
-¡Say hi to the cat!.
+You can see the results [here](http://andresvillanueva.com.ve/deployment-circleci-gh-pages/)¡Say hi to this cute kittie!. Files are available at [develop](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/develop) or [master](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/master) branches .
+.
 
 Special thanks to:
 * [Eldarlabs](https://github.com/eldarlabs) github organization, for the repo [eldarlabs/ghpages-deploy-script](https://github.com/eldarlabs/ghpages-deploy-script).
