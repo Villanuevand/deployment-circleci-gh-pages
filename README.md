@@ -1,7 +1,7 @@
 # Circle CI and Github Pages.
 Playing with [CircleCi](https://circleci.com) to deploy automatically projects to [gh-pages](https://pages.github.com/).
 
-You can see the results [here](http://andresvillanueva.com.ve/deployment-circleci-gh-pages/)¡Say hi to this cute kittie!. Files are available at [develop](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/develop) or [master](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/master) branches .
+You can see the results [here](http://andresvillanueva.com.ve/deployment-circleci-gh-pages/)¡Say hi to this cute kittie!. Files are available in [develop](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/develop) or [master](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/master) branches .
 .
 
 Special thanks to:
