@@ -1,8 +1,8 @@
 # Circle CI and Github Pages.
 Playing with [CircleCi](https://circleci.com) to deploy automatically projects to [gh-pages](https://pages.github.com/).
 
-You can see the results [here](http://andresvillanueva.com.ve/deployment-circleci-gh-pages/)¡Say hi to this cute kittie!. Files are available in [develop](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/develop) or [master](https://github.com/Villanuevand/deployment-circleci-gh-pages/tree/master) branches .
-.
+You can see the results [here](http://andresvillanueva.com.ve/deployment-circleci-gh-pages/).
+¡Say hi to the cat!.
 
 Special thanks to:
 * [Eldarlabs](https://github.com/eldarlabs) github organization, for the repo [eldarlabs/ghpages-deploy-script](https://github.com/eldarlabs/ghpages-deploy-script).
@@ -45,7 +45,7 @@ bash: line 1: ./scripts/deploy.sh: Permission denied
 Action failed: ./scripts/deploy.sh build
 ```
 
-Push any change to `master` branch, check the build in Circle Ci, and enjoy how push automatically to your `gh-page` branch.
+Push any change to `master` branch, check the build in Circle Ci, and enjoy how push automatycally to your `gh-page` branch.
 
 **¡Feel free to contribute!**
 
