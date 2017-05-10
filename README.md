@@ -35,7 +35,7 @@ _Reference Image - Enviroment Variables Configuration:_
 ![Enviroment Variable - Villanuevand](http://drive.google.com/uc?export=view&id=0ByoQ8u8IrvxGZ0hXRkxFeFlKRDQ)
 
 
-Push any change to `master` branch, check the build in Circle Ci, and enjoy how push automatycally to your `gh-page` branch.
+Push any change to `master` branch, check the build in Circle Ci, and enjoy how push automatically to your `gh-page` branch.
 
 **¡Feel free to contribute!**
 
