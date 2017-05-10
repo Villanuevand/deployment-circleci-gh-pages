@@ -1,7 +1,7 @@
 # Circle CI and Github Pages.
 Playing with [CircleCi](https://circleci.com) to deploy automatically projects to [gh-pages](https://pages.github.com/).
 
-You can see the results [here](http://andresvillanueva.com.ve/deployment-circleci-gh-pages/).
+You can see the results [here](http://villanuevand.gihub.io/deployment-circleci-gh-pages/).
 ¡Say hi to the cat!.
 
 Special thanks to:
@@ -34,16 +34,6 @@ _Reference Image - Enviroment Variables Configuration:_
 
 ![Enviroment Variable - Villanuevand](http://drive.google.com/uc?export=view&id=0ByoQ8u8IrvxGZ0hXRkxFeFlKRDQ)
 
-### Mark `deploy.sh` as executable
-Into `./scripts` folder run `chmod +x deploy.sh` to make the script executable and avoid build error:
-```.sh
-./scripts/deploy.sh build
-bash: line 1: ./scripts/deploy.sh: Permission denied
-
-./scripts/deploy.sh build returned exit code 126
-
-Action failed: ./scripts/deploy.sh build
-```
 
 Push any change to `master` branch, check the build in Circle Ci, and enjoy how push automatycally to your `gh-page` branch.
 
